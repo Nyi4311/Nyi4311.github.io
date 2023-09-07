@@ -1,0 +1,19 @@
+.ctbox{
+    width: 100%;
+    margin: 0 auto;
+    display: inline-block;
+    /* background-color: aqua; */
+}
+.ctboxl{
+    width: 45%;
+    margin: 0 auto;
+    display: inline-block;
+    /* background-color: blue; */
+}
+.ctboxr{
+    width: 45%;
+    margin: 0 auto;
+    display: inline-block;
+    /* background-color: brown; */
+    padding: 10px;
+}

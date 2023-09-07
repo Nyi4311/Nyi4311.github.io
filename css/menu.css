@@ -1,0 +1,35 @@
+.div3{
+    margin: 0 auto;
+    width: auto;
+}
+.m2{
+    width: auto;
+    margin: 0 auto;
+
+}
+.l2l{
+    width: 45%;
+    margin: 0 auto;
+    display: inline-block
+    ;
+}
+.r2r{
+    width: 45%;
+    margin: 0 auto;
+    display: inline-block;
+}
+.menuitem{
+    width: auto;
+    margin: 0 auto;
+    padding: 10px;
+}
+.button{
+    width: auto;
+    margin: 0 auto;
+}
+.btn-dark{
+    width: 100px;
+    height: 50px;
+    margin: 0 auto;
+    padding: 10px;
+}

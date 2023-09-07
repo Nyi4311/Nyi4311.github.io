@@ -1,0 +1,16 @@
+.carousel{
+    width: 100%; 
+    margin: 0 auto;
+}
+.container {
+    width: auto;
+    margin: 0 auto;
+}
+.left{
+    width: 40%;
+    display: inline-block;
+}
+.right {
+    width: 55%;
+    display: inline-block;
+}

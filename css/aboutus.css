@@ -1,0 +1,39 @@
+.conatiner {
+    width: auto;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+.hleft {
+    width: 40%;
+    display: inline-block;
+    margin: 0 auto;
+}
+.hright {
+    width: 50%;
+    display: inline-block;
+    text-align: center;
+    margin: 0 auto;
+}
+.ingredient{
+    width: auto;
+    margin: 0 auto;
+}
+.col-md-4{
+    margin: 10px auto;
+}
+.gfq{
+    width: auto;
+    margin: 10px auto;
+}
+.gfql{
+    width: 45%;
+    display: inline-block;
+    margin: 0 auto; 
+}
+.gfqr{
+    width: 50%;
+    display: inline-block;
+    text-align: center;
+    margin: 0 auto;
+}
